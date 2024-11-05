@@ -1,5 +1,5 @@
 ### Hello there 👋
-I’m currently a computational engineering student at Insper!
+I’m currently a computer engineering student at Insper!
 
 <!--
 **Joao-pedrosantos/Joao-pedrosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
