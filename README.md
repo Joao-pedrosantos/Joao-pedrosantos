@@ -18,7 +18,7 @@ Computer Engineering student at **Insper** (São Paulo, Brazil — graduating Ju
 
 - 🏦 Previously interned at **UBS Asset Management**, **BTG Pactual**, and **Olimpia Partners**
 - 🤖 Passionate about GenAI, microservices architecture, and computer graphics
-- 🎮 Pokémon strategist, Minecraft server admin, and competitive programming enthusiast
+- 🎮 Pokémon strategist, computer building, and competitive programming enthusiast
 - 🌍 Fluent in Portuguese, English, and Spanish
 
 -----
