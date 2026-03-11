@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-Computer Engineering student at **Insper** (São Paulo, Brazil — graduating June 2026) with minors in **Data Science** and **Computer Vision**. I love building things at the intersection of **software engineering**, **finance**, and **AI** — from M&A research platforms powered by LLMs to real-time WebGPU raytracers with physically-based rendering.
+Computer Engineering student at **Insper** (São Paulo, Brazil — graduating June 2026) with minors in **Data Science** and **Computer Vision**. I love building things at the intersection of **software engineering**, **finance**, and **AI**, from M&A research platforms powered by LLMs to real-time WebGPU raytracers with physically-based rendering.
 
 - 🏦 Previously interned at **UBS Asset Management**, **BTG Pactual**, and **Olimpia Partners**
 - 🤖 Passionate about GenAI, microservices architecture, and computer graphics
@@ -115,14 +115,6 @@ Computer Engineering student at **Insper** (São Paulo, Brazil — graduating Ju
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-pedrosantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
------
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joao-pedrosantos&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 -----
